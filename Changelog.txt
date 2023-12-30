@@ -1,0 +1,17 @@
+This release has the following changes:
+
+    Adds a 100mm option in the "Move" menu
+    Disables touchscreen beep
+    Enables screen dim after 5 minutes (tap to wake up)
+    Adds Auto-Tramming feature
+    Sets hotend offset values in 0.01mm steps
+    Adds full SD Card browsing including subfolders
+    Nozzle temperature limits removed. Relevant settings: "HEATER_0_MAXTEMP" + "HEATER_1_MAXTEMP"
+    Supports bilinear levelling 8x8 points
+    Removed display glitches
+    Adds mesh levelling visualization
+    Adds optional auto power-off in adjustment settings
+    Adds power-off button in settings menu
+    
+Release was re-compiled & renamed in order to ensure consistency.
+
