@@ -1,5 +1,5 @@
 # SV04-Touchscreen
- SV04 Touchscreen Source v1.13
+ SV04 Touchscreen Source v1.14
  
  Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI some changes were applied to the classic Sovol SV04 touchscreen:
 
