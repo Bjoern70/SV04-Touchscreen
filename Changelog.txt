@@ -12,6 +12,8 @@ This release has the following changes:
     Adds mesh levelling visualization
     Adds optional auto power-off in adjustment settings
     Adds power-off button in settings menu
-    
-Release was re-compiled & renamed in order to ensure consistency.
+    Improved icons in "Move" menu
+    Merged "standard" and "SIZZLING" software version
+    Changed nozzle temperature limits to maximum 300°C - be sure to have a matching heat blocks & use at your own risk!
+    Changed temperature display: Temperatures above OEM MAXTEMP of 260°C will be display in red
 

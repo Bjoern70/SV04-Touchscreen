@@ -1,5 +1,5 @@
 # SV04-Touchscreen
- SV04 Touchscreen Source v1.1.B3.7
+ SV04 Touchscreen Source v1.13
  
  Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI some changes were applied to the classic Sovol SV04 touchscreen:
 
@@ -15,4 +15,6 @@
     Added mesh levelling visualization
     Added optional auto power-off in adjustment settings
     Added power-off button in settings menu
+    Improved icons in "Move" Menu
+    Changed temperature display: Temperatures above OEM MAXTEMP of 260°C will be display in red
 
