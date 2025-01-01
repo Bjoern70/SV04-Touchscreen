@@ -16,6 +16,11 @@ This release has the following changes:
     Merged "standard" and "SIZZLING" software version
     Changed nozzle temperature limits to maximum 300°C - be sure to have a matching heat blocks & use at your own risk!
     Changed temperature display: Temperatures above OEM MAXTEMP of 260°C will be display in red
-    Changed display filename length to 40 chars
-    Added warning "axes uncalibrated" in movement menus.
-
+    Added warning "axes uncalibrated" in movement menus
+    Added fan speed adjustment (before & during print)
+    Added flow-rate adjustment (before & during print)
+    Added restart function iot to set back all variables to power-up default state
+    Added extra settings dialog: PID tuning for nozzles and hot-bed (Auto-PID & manual input are supported)
+    Added extra settings dialog: Extruder E-step adjustment
+    Added extra settings dialog: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
+    Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute.

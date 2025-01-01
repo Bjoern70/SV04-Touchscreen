@@ -17,6 +17,4 @@
     Added power-off button in settings menu
     Improved icons in "Move" Menu
     Changed temperature display: Temperatures above OEM MAXTEMP of 260°C will be display in red
-    Changed display filename length to 40 chars
-    Added warning "axes uncalibrated" in movement menus.
 
