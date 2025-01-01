@@ -1,5 +1,5 @@
 # SV04-Touchscreen
- SV04 Touchscreen Source v1.14
+ SV04 Touchscreen Source v1.15.0
  
  Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI some changes were applied to the classic Sovol SV04 touchscreen:
 
@@ -17,4 +17,13 @@
     Added power-off button in settings menu
     Improved icons in "Move" Menu
     Changed temperature display: Temperatures above OEM MAXTEMP of 260°C will be display in red
+    Added warning "axes uncalibrated" in movement menus
+    Added fan speed adjustment (before & during print)
+    Added flow-rate adjustment (before & during print)
+    Added restart function iot to set back all variables to power-up default state
+    Added extra settings dialog: PID tuning for nozzles and hot-bed (Auto-PID & manual input are supported)
+    Added extra settings dialog: Extruder E-step adjustment
+    Added extra settings dialog: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
+    Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute.
+
 
