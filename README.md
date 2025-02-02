@@ -1,5 +1,5 @@
 # SV04-Touchscreen
- SV04 Touchscreen Source v1.15.2
+ SV04 Touchscreen Source v1.15.6
  
  Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI some changes were applied to the classic Sovol SV04 touchscreen:
 
@@ -25,6 +25,7 @@
     Added extra settings screen: Extruder E-step adjustment
     Added extra settings screen: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
     Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute
-    Removed freeze bug in presets screen.
+    Removed freeze bug in presets screen
+    Removed freeze bug in adjustment screen.
 
 

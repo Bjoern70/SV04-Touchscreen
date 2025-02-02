@@ -24,4 +24,5 @@ This release has the following changes:
     Added extra settings screen: Extruder E-step adjustment
     Added extra settings screen: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
     Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute
-    Removed freeze bug in presets screen.
+    Removed freeze bug in presets screen
+    Removed freeze bug in adjustment screen.
