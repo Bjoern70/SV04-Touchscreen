@@ -1,4 +1,4 @@
-This release has the following changes:
+This release contains changes as follows:
 
     Adds a 100mm option in the "Move" menu
     Disables touchscreen beep
@@ -25,4 +25,6 @@ This release has the following changes:
     Added extra settings screen: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
     Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute
     Removed freeze bug in presets screen
-    Removed freeze bug in adjustment screen.
+    Removed freeze bug in adjustment screen
+    Added advanced pause screens
+    Added debugging messages in all screens & debugging preset in extra settings screen.

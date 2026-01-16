@@ -1,7 +1,7 @@
 # SV04-Touchscreen
- SV04 Touchscreen Source v1.15.6
+ SV04 Touchscreen Source v1.15.7
  
- Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI some changes were applied to the classic Sovol SV04 touchscreen:
+ Based on the great work of bphillips09 & johncarlson21 and by inspiration of Jyers UI following changes were applied to the classic Sovol SV04 touchscreen:
 
     Added a 100mm option in the "Move" menu
     Disabled touchscreen beep
@@ -26,6 +26,8 @@
     Added extra settings screen: Presets (pre-heat temperatures, stepper deactivation time and auto power-off enable/disable)
     Changed filename display to rolling text with adjustable text speed; first 130 chars of filenames are on display, including umlaute
     Removed freeze bug in presets screen
-    Removed freeze bug in adjustment screen.
+    Removed freeze bug in adjustment screen
+    Added advanced pause screens
+    Added debugging messages in all screens & debugging preset in extra settings screen.
 
 
